@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+
+}
+
+header{
+    background-color: rgb(137, 155, 155);
+
+}
+
+nav{
+    background-color: rgb(109, 158, 158);
+
+
+}
+
+main{
+    background-color: aliceblue;
+    font-size: 25px;
+
+}
+
+footer{
+    background-color: antiquewhite;
+
+}
+
+li{
+    display: inline-block;
+    width: auto;
+
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+
+}
+
+p{
+    line-height: normal;
+
+}
